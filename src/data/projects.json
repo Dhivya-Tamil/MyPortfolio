@@ -1,0 +1,26 @@
+[
+    {
+      "title": "CryptoTracker Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JS", "ReactJs"],
+      "demo": "https://crypto-tracker-7oeq.vercel.app/",
+      "source": "https://github.com/Dhivya-Tamil/crypto-tracker"
+    },
+    {
+      "title": "Online Shopping Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://dhivya-tamil.github.io/online-shopping-website/",
+      "source": "https://github.com/Dhivya-Tamil/online-shopping-website"
+    },
+    {
+      "title": "Podcast",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JS", "ReactJs"],
+      "demo": "https://podcast-4a1z.vercel.app/",
+      "source": "https://github.com/Dhivya-Tamil/Podcast"
+    }
+  ]
